@@ -12,6 +12,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@nuxt/typescript-runtime": "^0.3.10",
     "nuxt": "^2.0.0"
   },
   "devDependencies": {
