@@ -16,7 +16,7 @@
     "@nuxt/typescript-runtime": "^0.3.10",
     "@vue/composition-api": "^0.4.0",
     "nuxt": "^2.0.0",
-    "vuetify": "^2.2.15"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@nuxt/typescript-build": "^0.5.8",
